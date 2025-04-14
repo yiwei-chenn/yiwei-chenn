@@ -4,7 +4,9 @@
 
 - 🌱 I have interests in Explainable AI and trustworthy ML.
 
-- 📫 How to reach me: chenyiwei0008@gmail.com.
+- 📫 How to reach me: chenyiw9@msu.edu.
+
+- - 🔭 I’m always open to collaboration.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiweiMelodyChen&count_private=true&show_icons=true&theme=gruvbox&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
