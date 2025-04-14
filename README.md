@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently a first year PhD student at Michigan State University.
 
-- 🌱 I have interests in Explainable AI and trustworthy ML.
+- 🌱 I'm interested in Explainable AI and trustworthy ML.
+
+- 🔭 I’m always open to collaboration.
 
 - 📫 How to reach me: chenyiw9@msu.edu.
-
-- - 🔭 I’m always open to collaboration.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiweiMelodyChen&count_private=true&show_icons=true&theme=gruvbox&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
