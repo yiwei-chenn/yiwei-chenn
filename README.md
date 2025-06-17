@@ -4,7 +4,7 @@
 
 - 🌱 I'm interested in Explainable AI and trustworthy ML.
 
-- 🔭 I’m always open to collaboration.
+- 💬 I’m always open to collaboration.
 
 - 📫 How to reach me: chenyiw9@msu.edu.
 
