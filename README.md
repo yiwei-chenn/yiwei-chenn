@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a first year PhD student at Michigan State University.
+- 🔭 I’m currently a second year PhD student at Michigan State University.
 
-- 🌱 I'm interested in Explainable AI and trustworthy ML.
+- 🌱 I'm interested in LLMs, VLMs, Post-training, Alignment, Agentic Systems.
 
 - 💬 I’m always open to collaboration.
 
